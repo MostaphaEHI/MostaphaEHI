@@ -1,5 +1,6 @@
 - 👋 Hello I'm Mostapha El Haje Ibrahim
 - 👀 I’m interested in learning how i can implement machine learning techniques in the financial industry 
 - 🌱 I’m currently learning unsupervised machine learning 
-- 💞️ I’m looking to collaborate on unsupervised learning and supervised learning projects 
-- 📫 reach me on my emial melhajeibrahim2020@student.hult.edu or LinkedIn https://www.linkedin.com/in/financial-analyst-investment-banking-mostapha-elhajibrahim/
+- 🤟 I’m looking to collaborate on unsupervised machine learning and supervised machine learning projects 
+- 📫 reach me on my emial melhajeibrahim2020@student.hult.edu
+- 📫 reach me on my LinkedIn https://www.linkedin.com/in/financial-analyst-investment-banking-mostapha-elhajibrahim/
