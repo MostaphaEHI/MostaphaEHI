@@ -4,3 +4,4 @@
 - 🤟 I’m looking to collaborate on unsupervised machine learning and supervised machine learning projects 
 - 📫 reach me on my emial melhajeibrahim2020@student.hult.edu
 - 📫 reach me on my LinkedIn https://www.linkedin.com/in/financial-analyst-investment-banking-mostapha-elhajibrahim/
+- 👉 view my data visualization work on my Tableau public profile https://public.tableau.com/app/profile/mostapha.el.haje.ibrahim5026#!/
