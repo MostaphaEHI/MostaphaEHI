@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning text analytics in R 
 - 🤟 I’m looking to collaborate on unsupervised machine learning and supervised machine learning projects 
 - 📫 reach me on my emial mostapha_elhajeibrahim@outlook.com
-- 📫 reach me on my LinkedIn https://www.linkedin.com/in/financial-analyst-investment-banking-mostapha-elhajibrahim/
+- 📫 reach me on my LinkedIn https://www.linkedin.com/in/MostaphaEHI/
 - 👉 view my data visualization work on my Tableau public profile https://public.tableau.com/app/profile/mostapha.el.haje.ibrahim5026#!/
